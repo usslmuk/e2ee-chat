@@ -1,6 +1,6 @@
 # chat.
 
-End to end encrypted chat. The server stores ciphertext and holds no keys.
+End to end encrypted chat
 
 Group crypto is MLS (RFC 9420). Next.js
 
